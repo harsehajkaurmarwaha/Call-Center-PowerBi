@@ -2,6 +2,7 @@
 This Power BI dashboard provides a comprehensive overview of call center performance metrics, focusing on customer service efficiency and agent productivity. 
 
 
+
 Learning outcomes:
 
 1.Learned how to track and visualize customer satisfaction and agent response times.
@@ -16,6 +17,7 @@ Learning outcomes:
 
 
 
+
 What this dashboard shows?
 
 1.Shows the overall customer satisfaction score using a gauge — currently at 3.40
@@ -27,6 +29,7 @@ What this dashboard shows?
 4.Tracks how many calls were answered or abandoned daily during the first half of January.
 
 5.Shows the average speed of answering calls across all agents in a clear and simple visual format.
+
 
 
 
